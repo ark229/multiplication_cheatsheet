@@ -1,0 +1,15 @@
+.title {
+  color: purple;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.author-name {
+  color: blue;
+}
