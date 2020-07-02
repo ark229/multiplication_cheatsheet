@@ -1,6 +1,7 @@
 .title {
   color: purple;
   font-size: 50px;
+  text-align: center;
 }
 
 .uppercase {
@@ -13,6 +14,7 @@
 
 .author-name {
   color: blue;
+  text-align: center;
 }
 
 .center{
