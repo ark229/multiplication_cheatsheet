@@ -99,7 +99,14 @@ td{
   color:white;
 }
 
-h2-resources {
+.h2-resources {
   color: maroon;
   font-family: Comic Sans MS;
+}
+
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #DCDCDC;
+  text-align: center;
 }
