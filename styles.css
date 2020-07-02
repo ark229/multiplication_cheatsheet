@@ -21,7 +21,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 45%;
+  width: 60%;
 }
 
 p {
@@ -38,6 +38,7 @@ p {
 
 .date-published {
   color: gray;
+  text-align: center;
 }
 
 th {
