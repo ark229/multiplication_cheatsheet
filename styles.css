@@ -18,3 +18,36 @@ p {
   font-family: Arial;
   font-size: 18px;
 }
+
+.container {
+  max-width: 740px;
+  margin: 0 auto;
+  height: 550px;
+}
+
+th {
+  border: 3px solid #000000;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td{
+  border: 2px solid #000000;
+}
+
+.theading-two {
+  background-color: #FFFF00
+}
+
+.left-one {
+  width: 100px
+}
+
+.left-two {
+  width: 100px;
+  background: #6A5ACD;
+  color: white;
+}
