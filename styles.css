@@ -14,6 +14,13 @@
   color: blue;
 }
 
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 p {
   font-family: Arial;
   font-size: 18px;
@@ -23,6 +30,10 @@ p {
   max-width: 740px;
   margin: 0 auto;
   height: 550px;
+}
+
+.date-published {
+  color: gray;
 }
 
 th {
@@ -50,4 +61,40 @@ td{
   width: 100px;
   background: #6A5ACD;
   color: white;
+}
+
+.left-three {
+  width: 100px;
+  background: #228B22;
+  color: white;
+}
+
+.left-four{
+  width: 100px;
+  background: #B22222;
+  color: white;
+}
+
+.left-five{
+  width: 100px;
+  background: #0000CD;
+  color: white;
+}
+
+.left-ten{
+  width: 100px;
+  background: #FF4500;
+  color: white;
+}
+
+.left-eleven{
+  width: 100px;
+  background: #8B008B;
+  color: white;
+}
+
+.left-twelve{
+  width: 100px;
+  background: #8B0000;
+  color:white;
 }
